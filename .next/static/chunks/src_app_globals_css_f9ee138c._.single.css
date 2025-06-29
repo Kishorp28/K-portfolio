@@ -263,20 +263,20 @@ img, video {
   bottom: 1rem;
 }
 
-.right-4 {
-  right: 1rem;
-}
-
-.top-0 {
-  top: 0;
-}
-
 .bottom-6 {
   bottom: 1.5rem;
 }
 
+.right-4 {
+  right: 1rem;
+}
+
 .right-6 {
   right: 1.5rem;
+}
+
+.top-0 {
+  top: 0;
 }
 
 .z-50 {
@@ -1635,14 +1635,14 @@ img, video {
   box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
 }
 
-.focus\:ring-blue-500:focus {
-  --tw-ring-opacity: 1;
-  --tw-ring-color: rgb(59 130 246 / var(--tw-ring-opacity, 1));
-}
-
 .focus\:ring-blue-400:focus {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(96 165 250 / var(--tw-ring-opacity, 1));
+}
+
+.focus\:ring-blue-500:focus {
+  --tw-ring-opacity: 1;
+  --tw-ring-color: rgb(59 130 246 / var(--tw-ring-opacity, 1));
 }
 
 .disabled\:bg-gray-400:disabled {
