@@ -112,17 +112,6 @@ The contact form includes:
 
 ### Vercel (Recommended)
 
-1. **Push to GitHub**
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   ```
-
-2. **Deploy to Vercel**
-   - Connect your GitHub repository to Vercel
-   - Add environment variables for Firebase
-   - Deploy automatically
 
 ### Environment Variables
 
@@ -194,9 +183,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Made with ❤️ by KISHORE
-# k-sportfolio
-# k-portfolio
-# k-portfolio
-"# k-portfolio" 
-# K-portfolio
-"# K-portfolio" 
+
