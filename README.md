@@ -52,7 +52,7 @@ A modern, responsive personal portfolio website built with Next.js, TypeScript, 
    ```bash
    npm install
    ```
-
+C:\Users\Welcome\.git
 3. **Set up Firebase**
    - Create a new Firebase project
    - Enable Firestore Database
